@@ -1,0 +1,29 @@
+body{
+    background-image: url('https://wallpapers.com/images/hd/marvel-comics-thor-superhero-yzdk4e91aoa3woqp.jpg');
+     background-size: cover;
+    background-repeat: no-repeat;
+    backface-visibility: visible;
+    
+}
+img{
+
+    padding: 10px;
+    width: 200px;
+    padding-right: 20px;
+    float: right;
+    border-radius: 20%;
+   
+}
+h1{
+    color: rgb(198, 14, 14);
+    padding-bottom: 400px;
+    text-align: center ;
+
+}
+p{
+    font-size: 1rem ;
+    color: rgb(163, 47, 71);
+    text-align: right;
+    font-size: 18px;
+    font-weight: bolder;
+}
